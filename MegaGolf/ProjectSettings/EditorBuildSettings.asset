@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Level1.unity
     guid: 54fab7d0fa5c7e348aaa7b615b7da892
+  - enabled: 1
+    path: Assets/Scenes/Michael_Noonan_Grass_Level.unity
+    guid: 7a586aed752871e40b15ff7300fe4513
+  - enabled: 1
+    path: Assets/Scenes/Michael_Noonan_Beach_Level.unity
+    guid: aa881f7cd9c5bb7458e9e0168522b539
   m_configObjects: {}
