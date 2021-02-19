@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Michael_Noonan_Beach_Level.unity
     guid: aa881f7cd9c5bb7458e9e0168522b539
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Ryan O'Connor.unity
+    guid: 19c0af5e133ef1e48b0a94fa9dad9b3b
+  - enabled: 1
+    path: Assets/Scenes/Level 2 - Ryan O'Connor.unity
+    guid: 14a1ca9b12b1e9d42bf7bf24e8a8cd31
   m_configObjects: {}
