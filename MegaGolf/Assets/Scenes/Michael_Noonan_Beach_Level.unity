@@ -391,7 +391,6 @@ GameObject:
   - component: {fileID: 129069859}
   - component: {fileID: 129069858}
   - component: {fileID: 129069857}
-  - component: {fileID: 129069856}
   m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
@@ -399,20 +398,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!136 &129069856
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 129069855}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!23 &129069857
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -818,7 +803,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 148233133547282905, guid: 7ad5104717f9c8f44b63ccd78c2298b5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.88
+      value: 0.9037
       objectReference: {fileID: 0}
     - target: {fileID: 148233133547282905, guid: 7ad5104717f9c8f44b63ccd78c2298b5, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1242,7 +1227,6 @@ GameObject:
   - component: {fileID: 1290223169}
   - component: {fileID: 1290223168}
   - component: {fileID: 1290223167}
-  - component: {fileID: 1290223166}
   m_Layer: 0
   m_Name: Cylinder (1)
   m_TagString: Untagged
@@ -1250,20 +1234,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!136 &1290223166
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1290223165}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  m_Radius: 0.5000001
-  m_Height: 2
-  m_Direction: 1
-  m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!23 &1290223167
 MeshRenderer:
   m_ObjectHideFlags: 0
